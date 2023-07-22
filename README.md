@@ -19,5 +19,5 @@
 또다른 스터디원이 들어오길 바라며...
 | 👩‍💻 [정다은](https://github.com/uneap) | 👩‍💻 [김영준](https://github.com/coke05288)  |
 |:-----------------------------------------------:|:---------------------------------------------:|
-|  <img src="https://avatars.githubusercontent.com/u/25525648?s=400&u=804f0053656d58431a492fbddd23f0a78f42fe57&v=4" width="200" />  | <img src="https://avatars.githubusercontent.com/u/24985866?s=96&v=4" width="200" /> |
+|  <img src="https://avatars.githubusercontent.com/u/25525648?s=400&u=804f0053656d58431a492fbddd23f0a78f42fe57&v=4" width="200" />  | <img src="https://avatars.githubusercontent.com/u/24985866?s=400&v=4" width="200" /> |
 |                  공부 습관 만들어보자🌟                  |                                   |
