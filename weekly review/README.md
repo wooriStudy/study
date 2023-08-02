@@ -1,7 +1,10 @@
 # 주간 회고록 양식
+
 ## 다은
+
 ### 주간 배운 것들 link
 https://github.com/wooriStudy/study/tree/main/weekly%20review/learning/%EB%8B%A4%EC%9D%80
+
 ### 회고
 ```
 😃 잘한 것 :
@@ -17,8 +20,8 @@ https://github.com/wooriStudy/study/tree/main/weekly%20review/learning/%EB%8B%A4
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------ |
 | [JIT 컴파일러?](https://github.com/uneap/tech-note/tree/master/Java/JIT%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC)                                                                                                       | ■■■■■ | □□□■■  |
 | [티어드 컴파일러? ](https://github.com/uneap/tech-note/blob/master/Java/JIT%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/%ED%8B%B0%EC%96%B4%EB%93%9C%EC%BB%B4%ED%8C%8C%EC%9D%BC.md)                                         | ■■■■■ | □□■■■  |
-| JIT 컴파일러 성능 튜닝                                                                                                                                                                                                | □□□□■ | □□□□□  |
 | [인터프리터 vs 컴파일러](https://github.com/uneap/tech-note/blob/master/Java/JIT%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%20vs%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC.md) | ■■■■■ | □■■■■  |
+
 
 ## 영준
 ### 주간 배운 것들 link
@@ -38,7 +41,6 @@ https://github.com/wooriStudy/study/tree/main/weekly%20review/learning/%EB%8B%A4
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------ |
 | [JIT 컴파일러?](https://github.com/uneap/tech-note/tree/master/Java/JIT%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC)                                                                                                       | ■■■■■ | □□□■■  |
 | [티어드 컴파일러? ](https://github.com/uneap/tech-note/blob/master/Java/JIT%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/%ED%8B%B0%EC%96%B4%EB%93%9C%EC%BB%B4%ED%8C%8C%EC%9D%BC.md)                                         | ■■■■■ | □□■■■  |
-| JIT 컴파일러 성능 튜닝                                                                                                                                                                                                | □□□□■ | □□□□□  |
 | [인터프리터 vs 컴파일러](https://github.com/uneap/tech-note/blob/master/Java/JIT%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0%20vs%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC.md) | ■■■■■ | □■■■■  |
 
 
